@@ -1,0 +1,16 @@
+{"id_mhs"=>,
+"id_periode"=>,
+"data"=>[
+    {"id_quis"=>,
+     "jawaban_presepsi"=>,
+     "jawaban_harapan"=>,
+     },
+     {"id_quis"=>,
+     "jawaban_presepsi"=>,
+     "jawaban_harapan"=>,
+     },
+     {"id_quis"=>,
+     "jawaban_presepsi"=>,
+     "jawaban_harapan"=>,
+     }
+    ]}
